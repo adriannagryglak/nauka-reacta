@@ -19,6 +19,3 @@ Hero.propTypes = {
 
 export default Hero;
 
-
-
-// "http://uploads.kodilla.com/bootcamp/fer/11.react/space.png"
